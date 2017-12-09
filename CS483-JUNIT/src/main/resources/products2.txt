@@ -1,0 +1,5 @@
+water 25
+juice 35
+sprite 50
+coke 60
+pepsi 75
